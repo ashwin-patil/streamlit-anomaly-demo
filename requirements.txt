@@ -1,0 +1,12 @@
+streamlit
+streamlit-aggrid
+pandas
+requests
+altair
+beautifulsoup4
+tqdm
+lxml
+html5lib
+matplotlib>=3.4.2
+plotly>=5.3.1
+scikit-learn>=0.24.2
